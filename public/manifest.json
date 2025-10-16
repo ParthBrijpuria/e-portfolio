@@ -1,0 +1,16 @@
+{
+  "name": "Parth Brijpuria - IIT Roorkee Student & Developer",
+  "short_name": "Parth Brijpuria",
+  "description": "Personal portfolio of Parth Brijpuria, a first-year undergraduate student at IIT Roorkee with expertise in programming, machine learning, and competitive coding.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
