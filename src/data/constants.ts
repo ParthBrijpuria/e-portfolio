@@ -61,9 +61,9 @@ export const education = [
   {
     institution: "IIT Roorkee",
     degree: "Bachelor of Technology",
-    field: "Computer Science & Engineering",
+    field: "BSBE - Biosciences and Bioengineering",
     period: "2025 - Present",
-    description: "Currently pursuing undergraduate studies with focus on programming, machine learning, and competitive coding."
+    description: "Currently pursuing undergraduate studies in Biosciences and Bioengineering with focus on programming, machine learning, and competitive coding."
   },
   {
     institution: "Little World School, Jabalpur",
